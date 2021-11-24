@@ -6,8 +6,8 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "BlockHeadz",
-  "SYMBOL": "BHNFT",
+  "NFT_NAME": "BlockHeadz TestV0.2",
+  "SYMBOL": "BHTNFT",
   "MAX_SUPPLY": 100,
   "WEI_COST": 75000000000000000000,
   "DISPLAY_COST": 75,
