@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x8992aEe69C02A9D59cF7F0D39067E63dd2CFaE6e",
   "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x8992aEe69C02A9D59cF7F0D39067E63dd2CFaE6e",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Polygon Testnet",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "BlockHeadz TestV0.2",
   "SYMBOL": "BHTNFT",
