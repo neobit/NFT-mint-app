@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x8992aEe69C02A9D59cF7F0D39067E63dd2CFaE6e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x8992aEe69C02A9D59cF7F0D39067E63dd2CFaE6e",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "BlockHeadz",
+  "SYMBOL": "BHNFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000000,
+  "DISPLAY_COST": 75,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/blockheadz-testv0-2",
   "SHOW_BACKGROUND": true
 }
