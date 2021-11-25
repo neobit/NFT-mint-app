@@ -34,7 +34,6 @@ export const StyledRoundButton = styled.button`
   border: none;
   background-color: var(--primary);
   padding: 10px;
-  font-weight: bold;
   font-size: 15px;
   color: var(--primary-text);
   width: 30px;
