@@ -12,8 +12,7 @@ export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 50px;
   border: none;
-  background-color: var(--secondary);
-  background-image: url('https://media.geeksforgeeks.org/wp-content/uploads/20190314004249/sample-image2.png');
+  background-color: #df7126;
   padding: 10px;
   font-weight: bold;
   color: var(--secondary-text);
