@@ -12,7 +12,7 @@
   "WEI_COST": 75000000000000000000,
   "DISPLAY_COST": 75,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/blockheadz-testv0-2",
   "SHOW_BACKGROUND": true
 }
