@@ -13,6 +13,7 @@ export const StyledButton = styled.button`
   border-radius: 50px;
   border: none;
   background-color: var(--secondary);
+  background-image: url('https://media.geeksforgeeks.org/wp-content/uploads/20190314004249/sample-image2.png');
   padding: 10px;
   font-weight: bold;
   color: var(--secondary-text);
@@ -295,7 +296,7 @@ function App() {
                         getData();
                       }}
                     >
-                      CONNECT
+                      Connect Your Wallet
                     </StyledButton>
                     {blockchain.errorMsg !== "" ? (
                       <>
