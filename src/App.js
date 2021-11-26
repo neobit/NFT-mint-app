@@ -231,8 +231,8 @@ function App() {
                 color: "var(--primary-text)",
               }}
             >
-              <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
-              Your wallet address is: {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
+              Your wallet address is: <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
+              {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
               </StyledLink>
             </s.TextDescription>
             <span
