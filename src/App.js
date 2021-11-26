@@ -12,7 +12,7 @@ export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 50px;
   border: none;
-  background-color: #df7126;
+  background-color: var(--orange);
   padding: 10px;
   font-weight: bold;
   color: var(--secondary-text);
@@ -89,7 +89,7 @@ export const StyledImg = styled.img`
 `;
 
 export const StyledLink = styled.a`
-  color: var(--secondary);
+  color: var(--orange);
   text-decoration: none;
 `;
 
