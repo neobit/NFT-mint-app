@@ -220,7 +220,6 @@ function App() {
               style={{
                 textAlign: "center",
                 fontSize: 50,
-                fontWeight: "bold",
                 color: "var(--accent-text)",
               }}
             >
